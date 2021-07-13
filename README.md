@@ -20,6 +20,16 @@ Saved model in fer files, to be used anytime, and predicting new inmages using t
 The python hupyter notebooks folder has note books which explain the CNN program used.<br>
 Programs folder has differnt programs for the processes mentioned above.<br>
 fer files,haarcascade, etc files are required for the  project to detect face.
+
+
+<h3>Demo:</h3>
+ 
+Without Mask video:<br>
+https://github.com/Anurag-Varma/face-recognition-with-and-without-mask/blob/main/withmask.mp4
+
+<br>
+With Mask video:<br>
+https://github.com/Anurag-Varma/face-recognition-with-and-without-mask/blob/main/without%20mask.mp4
  
  
  <h3>Note:</h3>

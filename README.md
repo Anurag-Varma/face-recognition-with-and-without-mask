@@ -16,7 +16,7 @@ Converted the videos into images, and trained on these images using CNN,<br>
 Saved model in fer files, to be used anytime, and predicting new inmages using this model.
 
 
-<h3>Note:</h3>
+<h3>Info:</h3>
 The python hupyter notebooks folder has note books which explain the CNN program used.<br>
 Programs folder has differnt programs for the processes mentioned above.<br>
 fer files,haarcascade, etc files are required for the  project to detect face.
